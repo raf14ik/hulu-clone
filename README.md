@@ -1,4 +1,4 @@
-Add your pi tmdb in request.js ligne const API_Key = "Import api tmdb";
+Add your api tmdb in request.js ligne const API_Key = "Import api tmdb";
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
